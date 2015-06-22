@@ -32,6 +32,12 @@
 			"repository": "https://github.com/dgrijalva/jwt-go",
 			"revision": "2e53eb673c4450614e3bca6f345197f9527dce71",
 			"branch": "master"
+		},
+		{
+			"importpath": "github.com/nareix/curl",
+			"repository": "https://github.com/nareix/curl",
+			"revision": "224d78f735b34d08d4eef776208f53bcbc2d8d0e",
+			"branch": "master"
 		}
 	]
 }
