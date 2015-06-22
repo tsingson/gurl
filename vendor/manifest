@@ -1,0 +1,37 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/codegangsta/cli",
+			"repository": "https://github.com/codegangsta/cli",
+			"revision": "7ad88c27405eca0bb4a04bb45897fb7985bd1217",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/fzzy/radix/extra/pubsub",
+			"repository": "https://github.com/fzzy/radix",
+			"revision": "031cc11e9800a2626ee2ae629655a922b630a07d",
+			"branch": "master",
+			"path": "/extra/pubsub"
+		},
+		{
+			"importpath": "github.com/fzzy/radix/redis",
+			"repository": "https://github.com/fzzy/radix",
+			"revision": "031cc11e9800a2626ee2ae629655a922b630a07d",
+			"branch": "master",
+			"path": "/redis"
+		},
+		{
+			"importpath": "github.com/codegangsta/negroni",
+			"repository": "https://github.com/codegangsta/negroni",
+			"revision": "c7477ad8e330bef55bf1ebe300cf8aa67c492d1b",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/dgrijalva/jwt-go",
+			"repository": "https://github.com/dgrijalva/jwt-go",
+			"revision": "2e53eb673c4450614e3bca6f345197f9527dce71",
+			"branch": "master"
+		}
+	]
+}

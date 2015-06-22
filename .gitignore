@@ -5,4 +5,3 @@ bin
 .idea
 vendor/pkg
 .DS_Store
-vendor
