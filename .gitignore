@@ -1,0 +1,8 @@
+node_modules
+build
+pkg
+bin
+.idea
+vendor/pkg
+.DS_Store
+vendor
